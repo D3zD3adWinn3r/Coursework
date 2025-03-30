@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(109, 152, 245);
+}
+
+h1{
+    font-family: 'Gothic A1',;
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+    text-align: center;
+    color: rgb(8, 0, 43);
+}
+.minititle{
+border-width: 7px;
+border-style: solid;
+display: block;
+text-align: center;
+font-weight: bold;
+    margin-block: 20px;
+    font-family: 'Gothic A1',;
+    color: rgb(0, 11, 59);
+}
+.box{
+    background-color: rgb(199, 159, 252);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
