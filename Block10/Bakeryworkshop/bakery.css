@@ -1,0 +1,48 @@
+.FB {
+    font-size: xxx-large;
+    text-align: center;
+    color: crimson;
+    font-weight: bold;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: #000;
+}
+li {
+    border-style: solid;
+    background-color: darkred;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    display: inline-block;
+    align-items: left;
+    border-radius: 20px;
+    padding: 20px;
+    width: 80px;
+    display: flex;
+}
+main{
+    display: flex;
+
+}
+
+footer {
+    text-align: center;
+    background-color: #000000;
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #e6e1e1;
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+}
