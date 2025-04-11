@@ -10,4 +10,4 @@
     let combination3 = 40-1
 
     //create alert
-    alert(greeting + combination "Space"+ combination2 + combination3)
+    alert(greeting + combination + combination2 + combination3)
