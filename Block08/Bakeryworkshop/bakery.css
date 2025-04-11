@@ -44,7 +44,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: medium;  
-    background-color: burlywood;
+    background-color: rgba(222, 184, 135, 0.411);
 }
 footer {
     text-align: center;
