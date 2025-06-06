@@ -41,7 +41,9 @@ a {
     cursor: pointer;
 }
 footer {
-    text-align: bottom;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace; 
     font-weight: bold;
@@ -55,7 +57,13 @@ article {
     font-weight: bold;
     color: #000046;
 }
-
+form {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
+    color: #000046;
+}
 
 
 /*css comment*/
