@@ -78,4 +78,14 @@ audio {
     margin: 0 auto;
 }
 
+.audio {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #000046;
+}
 /*css comment*/
