@@ -7,6 +7,7 @@ body {
 }
 nav {
     text-align: center;
+    width: 100%;
 }
 h1 {
     color: #000046;
@@ -64,6 +65,17 @@ form {
     font-weight: bold;
     color: #000046;
 }
+audio {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+}
 
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 
 /*css comment*/
