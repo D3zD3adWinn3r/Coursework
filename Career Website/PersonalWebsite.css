@@ -1,6 +1,6 @@
 /*Add a background image to website*/
 body {
-    background-image:url("/Block10/webimage/SitVal'.jpg");
+    background-color: rgb(218, 195, 161);
     background-size: auto;
     background-position: top;
     background-repeat: no-repeat;
@@ -40,7 +40,21 @@ a {
     border: none;
     cursor: pointer;
 }
-
+footer {
+    text-align: bottom;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
+    color: #000046;
+    padding: 20px;
+}
+article {
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bold;
+    color: #000046;
+}
 
 
 
